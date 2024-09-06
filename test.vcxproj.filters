@@ -16,6 +16,9 @@
     <Filter Include="소스 파일\01_정렬맵셋">
       <UniqueIdentifier>{151ebec6-b5c5-4609-abd6-5bed554ca0de}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\04_브루트포스">
+      <UniqueIdentifier>{77d0df4d-0dfa-4fbc-b2d3-256e8c85a1a3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="소스.cpp">
@@ -23,6 +26,12 @@
     </ClCompile>
     <ClCompile Include="소스1.cpp">
       <Filter>소스 파일\01_정렬맵셋</Filter>
+    </ClCompile>
+    <ClCompile Include="1000.cpp">
+      <Filter>소스 파일\04_브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="04_브루트포스\1000.cpp">
+      <Filter>소스 파일\04_브루트포스</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
