@@ -19,6 +19,9 @@
     <Filter Include="소스 파일\04_브루트포스">
       <UniqueIdentifier>{77d0df4d-0dfa-4fbc-b2d3-256e8c85a1a3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\05_우선순위큐">
+      <UniqueIdentifier>{9cf92ecd-6646-409e-8e89-6b9ec6f14af9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="소스.cpp">
@@ -32,6 +35,12 @@
     </ClCompile>
     <ClCompile Include="04_브루트포스\1000.cpp">
       <Filter>소스 파일\04_브루트포스</Filter>
+    </ClCompile>
+    <ClCompile Include="2000.cpp">
+      <Filter>소스 파일\05_우선순위큐</Filter>
+    </ClCompile>
+    <ClCompile Include="05_우선순위큐\2000.cpp">
+      <Filter>소스 파일\05_우선순위큐</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
