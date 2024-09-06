@@ -128,7 +128,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="04_브루트포스\1000.cpp" />
+    <ClCompile Include="05_우선순위큐\2000.cpp" />
     <ClCompile Include="1000.cpp" />
+    <ClCompile Include="2000.cpp" />
     <ClCompile Include="소스.cpp" />
     <ClCompile Include="소스1.cpp" />
   </ItemGroup>
